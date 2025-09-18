@@ -4,9 +4,9 @@ Black Ops 2FA Activation: Securing Your Market Account
 
 Activating two-factor authentication (2FA) on Black Ops darknet market adds an extra security layer, reducing the risk of unauthorized account access.
  
-[<img src="/screenshots/bottom.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/screenshots/bottom.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/screenshots/tab.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/screenshots/tab.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 Why Enable 2FA?
 
@@ -26,4 +26,6 @@ Keep Backup Codes Secure
 
 - Store any backup codes offline safely to recover access if you lose your 2FA device.
 
-For official 2FA setup instructions and support, visit [Black Ops Official Site](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion).
+For official 2FA setup instructions and support, visit [Black Ops Official Site](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion).
+
+Update:  18 September 2025
