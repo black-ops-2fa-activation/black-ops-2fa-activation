@@ -28,4 +28,6 @@ Keep Backup Codes Secure
 
 For official 2FA setup instructions and support, visit [Black Ops Official Site](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion).
 
-Update:  18 September 2025
+
+
+Update:  10/01/2025
